@@ -8,7 +8,7 @@
 - [LinuxHelp](https://khaledmahmudkm.github.io/LinuxHelp/): Helpful commands and procedures in Linux
 - [802.11MAC](https://khaledmahmudkm.github.io/802.11MAC/): IEEE802.11 MAC Procedures and Frames
 - [Dijkstra's SPF](https://khaledmahmudkm.github.io/DijkstraSPF/): Visualize Dijkstra's SPF
-- [Juniper Command Usage](https://khaledmahmudkm.github.io/JuniperUsage/): Juniper Usage Guide | JuniperUsage
+- [Juniper Command Usage](https://khaledmahmudkm.github.io/JuniperUsage/): Juniper Usage Guide 
 - [Magic Square](https://khaledmahmudkm.github.io/MagicSquare/): Create and Solve Magic Square of Any Size
 
 ---
