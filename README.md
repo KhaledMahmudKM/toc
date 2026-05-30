@@ -19,6 +19,7 @@
 - [Dijkstra's SPF](https://khaledmahmudkm.github.io/DijkstraSPF/): Visualize Dijkstra's SPF
 - [Juniper Command Usage](https://khaledmahmudkm.github.io/JuniperUsage/): Juniper Usage Guide 
 - [Magic Square](https://khaledmahmudkm.github.io/MagicSquare/): Create and solve **Magic Square** of any size
+
 ---
 *Last update: May 29, 2026; © Khaled Mahmud*
 
