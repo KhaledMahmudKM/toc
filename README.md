@@ -1,6 +1,8 @@
 # Site List
 
 ## Consise Books
+
+- [Data Analysis](https://khaledmahmudkm.github.io/DataAnalysis/): Concise Book on Data Analysis
 - [Ansible](https://khaledmahmudkm.github.io/ConciseAnsible/): Concise Ansible Book
 - [Penetration Testing](https://khaledmahmudkm.github.io/ConcisePentesting/): Concise Penetration Testing Book
 - [Metasploit](https://khaledmahmudkm.github.io/ConciseMetasploit/): Concise Metasploit Book
